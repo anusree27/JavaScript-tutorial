@@ -25,3 +25,10 @@
 ```
 const pi = 3.14;
 ```
+
+
+# Hello world in JavaScript
+
+```
+console.log("Hello World!");
+```
